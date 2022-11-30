@@ -1,0 +1,16 @@
+pip install decorator
+pip install dlib
+pip install face-recognition
+pip install face_recognition_models
+pip install idna
+pip install imageio
+pip install imageio-ffmpeg
+pip install moviepy
+pip install numpy
+pip install opencv-python
+pip install Pillow
+pip install proglog
+pip install requests
+pip install tqdm
+pip install urllib3
+pip install wincertstore
